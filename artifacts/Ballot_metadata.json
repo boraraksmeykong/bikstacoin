@@ -1,0 +1,246 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red212\green212\blue212;\red26\green26\blue41;\red172\green172\blue193;
+\red140\green211\blue254;\red194\green126\blue101;\red167\green197\blue152;}
+{\*\expandedcolortbl;;\cssrgb\c86275\c86275\c86275;\cssrgb\c13333\c13725\c21176;\cssrgb\c72941\c73333\c80000;
+\cssrgb\c61176\c86275\c99608;\cssrgb\c80784\c56863\c47059;\cssrgb\c70980\c80784\c65882;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \{\cf4 \cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf4 \cb3     \cf5 \strokec5 "compiler"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "version"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "0.8.10+commit.fc410830"\cf4 \cb1 \strokec4 \
+\cb3     \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3     \cf5 \strokec5 "language"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Solidity"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3     \cf5 \strokec5 "output"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "abi"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "inputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "bytes32[]"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "proposalNames"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "bytes32[]"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "stateMutability"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nonpayable"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "constructor"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "inputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "chairperson"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "outputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "stateMutability"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "view"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "function"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "inputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "to"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "delegate"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "outputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "stateMutability"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nonpayable"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "function"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "inputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "voter"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "giveRightToVote"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "outputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "stateMutability"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nonpayable"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "function"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "inputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "proposals"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "outputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "bytes32"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "name"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "bytes32"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "voteCount"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "stateMutability"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "view"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "function"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "inputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "proposal"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "vote"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "outputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "stateMutability"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nonpayable"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "function"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "inputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "voters"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "outputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "weight"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "bool"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "voted"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "bool"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "delegate"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "vote"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "stateMutability"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "view"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "function"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "inputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "winnerName"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "outputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "bytes32"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "winnerName_"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "bytes32"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "stateMutability"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "view"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "function"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "inputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "winningProposal"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "outputs"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "internalType"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "name"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "winningProposal_"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "uint256"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "stateMutability"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "view"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "function"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "devdoc"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "details"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Implements voting process along with vote delegation"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "kind"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "dev"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "methods"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "constructor"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "details"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Create a new ballot to choose one of 'proposalNames'."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "params"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "proposalNames"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "names of proposals"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "delegate(address)"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "details"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Delegate your vote to the voter 'to'."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "params"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "to"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address to which vote is delegated"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "giveRightToVote(address)"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "details"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Give 'voter' the right to vote on this ballot. May only be called by 'chairperson'."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "params"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "voter"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "address of voter"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "vote(uint256)"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "details"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Give your vote (including votes delegated to you) to proposal 'proposals[proposal].name'."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "params"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "proposal"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "index of proposal in the proposals array"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "winnerName()"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "details"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Calls winningProposal() function to get the index of the winner contained in the proposals array and then"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "returns"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "winnerName_"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "the name of the winner"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                 \cf5 \strokec5 "winningProposal()"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "details"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Computes the winning proposal taking all previous votes into account."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "returns"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                         \cf5 \strokec5 "winningProposal_"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "index of winning proposal in the proposals array"\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Ballot"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "version"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "userdoc"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "kind"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "user"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "methods"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\},\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "version"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3     \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3     \cf5 \strokec5 "settings"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "compilationTarget"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "contracts/3_Ballot.sol"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Ballot"\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "evmVersion"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "london"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "libraries"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\},\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "bytecodeHash"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "ipfs"\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "optimizer"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "enabled"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 true\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "runs"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 200\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "remappings"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 []\cf4 \cb1 \strokec4 \
+\cb3     \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3     \cf5 \strokec5 "sources"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3         \cf5 \strokec5 "contracts/3_Ballot.sol"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "keccak256"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "0xdd897b48a563d1d32369fdb327187dfcd2660159cfcd3787196bb6be6a312c8d"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "license"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "GPL-3.0"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "urls"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "bzz-raw://551d7a6d3e2abc66a7b37fbd8b0e4c07b43c72c3b55958e66ac421348311fed4"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "dweb:/ipfs/Qmd4XV9j79GPfv5cgVsg62vKzaLuf6igx7VSW2BKaUyF3w"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3     \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3     \cf5 \strokec5 "version"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf4 \cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 \}\cf4 \cb1 \strokec4 \
+}
